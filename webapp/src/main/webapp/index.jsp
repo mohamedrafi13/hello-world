@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>  Senior Users Register and Happy Leaning Edureka. Hurray! Pipeline Works </h1>
+    <h1>  In the Name of Allah the Most Beneficient and Merciful  </h1>
     <p>Please fill in this form to create an account.Happily</p>
     <hr>
     <label for="Name"><b>Enter NewName</b></label>
