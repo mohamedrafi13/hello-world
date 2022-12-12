@@ -23,6 +23,6 @@
   </div>
 
   <div class="container signin">
-    <p>Already have an account?If Not create a New One <a href="#">Sign in</a>.</p>
+    <p>Already have an account?If Not to create a New One <a href="#">Sign in</a>.</p>
   </div>
 </form>
