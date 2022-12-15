@@ -3,7 +3,7 @@
     <h1>  In the Name of Allah the Most Beneficient and Merciful  </h1>
     <h2>  Subhanallah Alhamdulilah Allahuakbar </h2>
     <h2>  Wasalathu Wassalamu Ala Rasulilah </h2>
-    <h2>  Haiyul Qayyum Allahu Maghfirli </h2>
+    <h2>  Haiyul Qayyum Allahu Maghfirli Warhamni </h2>
     <p>Please fill in this form to create an account.Happily</p>
     <hr>
     <label for="Name"><b>Enter NewName</b></label>
